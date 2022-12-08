@@ -39,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "https://leonardovar2001.github.io/to-do-project/"
 }
